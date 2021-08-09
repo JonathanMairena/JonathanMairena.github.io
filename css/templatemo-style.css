@@ -475,7 +475,9 @@ a:hover, a:active, a:focus {
 #education .education-img {
   background: url('../images/education-img.jpg') no-repeat;
 }
-
+#education .education-proj {
+  background: url('../images/oto-ai.jpg') no-repeat;
+}
 #education .media-heading {
   margin-bottom: 0px;
 }
