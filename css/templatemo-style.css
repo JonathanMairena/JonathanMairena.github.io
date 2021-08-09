@@ -426,7 +426,7 @@ a:hover, a:active, a:focus {
   background: #E9724C;
 }
 
-#service p {
+#service .p {
   font-size: 18px;
   line-height: 30px;
 }
@@ -452,6 +452,10 @@ a:hover, a:active, a:focus {
 
 #experience .robots {
   background: url('../images/robots.jpg') no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100vh;
 }
 
 #experience .media-heading {
@@ -481,6 +485,10 @@ a:hover, a:active, a:focus {
 }
 #education .education-proj {
   background: url('../images/oto-ai.jpg') no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  width: 100%;
+  height: 100vh;
 }
 #education .media-heading {
   margin-bottom: 0px;
