@@ -450,6 +450,10 @@ a:hover, a:active, a:focus {
   background: url('../images/experience-img.jpg') no-repeat;
 }
 
+#experience .robots {
+  background: url('../images/robots.jpg') no-repeat;
+}
+
 #experience .media-heading {
   margin-bottom: 0px;
 }
