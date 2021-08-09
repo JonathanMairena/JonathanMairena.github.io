@@ -463,16 +463,6 @@ a:hover, a:active, a:focus {
 }
 
 #experience .media .fa {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  height: 100vh;
-  padding: 0 45px 0 45px;
   font-size: 42px;
   margin-right: 14px;
 }
@@ -498,13 +488,15 @@ a:hover, a:active, a:focus {
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
-  height: 100vh;
+  height: 80vh;
 }
 #education .media-heading {
   margin-bottom: 0px;
 }
 
 #education .media .fa {
+  width: 100%;
+  height: 80vh;
   font-size: 42px;
   margin-right: 14px;
 }
