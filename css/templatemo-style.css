@@ -465,7 +465,7 @@ a:hover, a:active, a:focus {
   height: 100vh;
 }
 #experience .mech {
-  background: url('../images/mechanical-img.png') no-repeat;
+  background: url('../images/mechanical.jpg') no-repeat;
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
